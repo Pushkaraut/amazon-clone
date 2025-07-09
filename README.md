@@ -15,4 +15,4 @@ A frontend clone of Amazon.com built using **HTML & CSS**, replicating the UI/UX
 ## 🚀 How to Run  
 1. Download or clone this repository: 
    git clone https://github.com/Pushkaraut/amazon-clone.git
-2. Opwn index.html in any browser.
+2. Open index.html in any browser.
